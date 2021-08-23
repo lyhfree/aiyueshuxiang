@@ -17,11 +17,8 @@
 
 ## 使用
 
-在App Store下载安装 [爱阅书香](https://apps.apple.com/cn/app/%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99/id1137819437)
-
-导入方法有两个，同步仓库可以最快获取更新，本地文件会间隔一段时间发布到Releases。
-- 同步仓库教程：[书源十](https://mp.weixin.qq.com/s/SmV2DkPuTXdrDozYjotPdQ)，建议先删除旧的再导入。
-- 本地文件导入：在 [GitHub Releases](https://github.com/blackbox079/iFreeTimebookConfigs/releases) 中可下载集成 *ibs* 文件，然后使用爱阅书香打开即可导入书源。
+1. 在App Store下载安装 [爱阅书香](https://apps.apple.com/cn/app/%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99/id1137819437)
+2. 同步书源教程可查看[书源十](https://mp.weixin.qq.com/s/SmV2DkPuTXdrDozYjotPdQ)，建议先删除旧的再导入。
 
 ## 版本更新
 
